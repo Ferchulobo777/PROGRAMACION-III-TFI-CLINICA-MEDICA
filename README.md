@@ -12,7 +12,7 @@
 - Natalia Ailén Gonzalez
 - Martin Andres Conti
 - Maria Pamela Conti
-- Benavente Geronimo Leyes
+- Geronimo Leyes
 
 **Repositorio:** https://github.com/Ferchulobo777/PROGRAMACION-III-TFI-CLINICA-MEDICA
 
